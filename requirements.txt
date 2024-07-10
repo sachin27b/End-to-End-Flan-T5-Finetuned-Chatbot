@@ -1,0 +1,6 @@
+peft
+transformers
+datasets
+accelerate
+pandas
+numpy
