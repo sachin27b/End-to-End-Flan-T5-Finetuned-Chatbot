@@ -4,3 +4,8 @@ datasets
 accelerate
 pandas
 numpy
+bitsandbytes
+scikit-learn
+torch
+torchvision 
+torchaudio
